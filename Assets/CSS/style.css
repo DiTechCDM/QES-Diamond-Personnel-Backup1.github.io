@@ -180,6 +180,9 @@ body::-webkit-scrollbar {
     .navbar-nav {
         padding: 5px 10px;
     }
+    .hr-wrapper{
+        padding: 0px 37px !important;
+    }
 }
 
 @media screen and (min-width: 1024px) {
